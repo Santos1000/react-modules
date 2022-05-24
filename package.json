@@ -5,6 +5,8 @@
   "dependencies": {
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "coverage": "^0.4.1",
+    "node": "^17.7.2",
     "nodejs": "^0.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -36,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.4"
+    "@testing-library/jest-dom": "^5.16.4",
+    "eslint": "^8.15.0"
   }
 }
